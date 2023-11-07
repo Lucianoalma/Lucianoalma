@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, I'm Luciano 👋
 
 ``` js
 const midudev = {
