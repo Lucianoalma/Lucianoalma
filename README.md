@@ -1,7 +1,7 @@
 ### Hi, I'm Luciano 👋
 
 ``` js
-const midudev = {
+const Lucianoalma = {
   pronouns: "he" | "him",
   code: [Javascript, HTML, CSS, Python, Java],
   tools: [React, Node, Styled-Components, Docker],
