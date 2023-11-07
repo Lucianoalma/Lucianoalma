@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+``` js
+const midudev = {
+  pronouns: "he" | "him",
+  code: [Javascript, HTML, CSS, Python, Java],
+  tools: [React, Node, Styled-Components, Docker],
+}
+ ```
 <!--
 **Lucianoalma/Lucianoalma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
