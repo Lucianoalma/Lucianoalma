@@ -7,7 +7,7 @@ const midudev = {
   tools: [React, Node, Styled-Components, Docker],
 }
  ```
-[![midudev's GitHub stats](https://github-readme-stats.vercel.app/api?username=midudev)](https://github.com/anuraghazra/github-readme-stats)
+[![Lucianoalma's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lucianoalma)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **Lucianoalma/Lucianoalma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
