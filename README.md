@@ -7,6 +7,9 @@ const Lucianoalma = {
   tools: [React, Node, Styled-Components, Docker],
 }
 
+<p align="center">
+  <img src="https://github.com/Luciano/Luciano/blob/master/Luciano.gif">
+</p>
  ```
 [![Lucianoalma's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lucianoalma)](https://github.com/Lucianoalma/github-readme-stats)
 <!--
