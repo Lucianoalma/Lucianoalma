@@ -16,7 +16,6 @@ const Lucianoalma = {
 <img src="https://img.shields.io/badge/-PosgreSQL-F29111?style=flat&logo=Postgresql&logoColor=FFFFFF">
 <img src="https://img.shields.io/badge/-Node.js-3C873A?style=flat&logo=Node.js&logoColor=white">
 <img src="http://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=FFFFFF">
-<img src="http://img.shields.io/badge/-VisualStudioCode-007ACC?style=flat&logo=visualStudio%20code&logoColor=white"
 
 ### Other Languages I know
 <img src="http://img.shields.io/badge/-Java-F89820?style=flat&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/-Python-black?style=flat&logo=python&logoColor=white"> <img src="http://img.shields.io/badge/-Javascript-F89820?style=flat&logo=java&logoColor=white">
