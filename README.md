@@ -18,7 +18,7 @@ const Lucianoalma = {
 <img src="http://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=FFFFFF">
 
 ### Other Languages I know
-<img src="http://img.shields.io/badge/-Java-F89820?style=flat&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/-Python-black?style=flat&logo=python&logoColor=white"> <img src="http://img.shields.io/badge/-Javascript-F89820?style=flat&logo=java&logoColor=white">
+<img src="http://img.shields.io/badge/-Java-F89820?style=flat&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/-Python-black?style=flat&logo=python&logoColor=white"> <img src="http://img.shields.io/badge/-Javascript-F89820?style=flat&logo=java&logoColor=white"> <img
 src="http://img.shields.io/badge/-Javascript-F89820?style=flat&logo=java&logoColor=white">
 
 </p>
